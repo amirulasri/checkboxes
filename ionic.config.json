@@ -1,0 +1,7 @@
+{
+  "name": "checkboxes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
